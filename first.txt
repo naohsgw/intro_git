@@ -3,3 +3,4 @@ learning fundamental work flow
 git add
 git rm
 git status
+git diff
