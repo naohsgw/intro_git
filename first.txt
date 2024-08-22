@@ -1,2 +1,3 @@
 Gitの練習をする。
 learning fundamental work flow
+git add
